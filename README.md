@@ -9,8 +9,8 @@ $ cabal update
 $ cabal run
 ```
 
-The Glorious Glasgow Haskell Compilation System, version 9.8.2
-cabal-install version 3.10.3.0
+The Glorious Glasgow Haskell Compilation System, version 9.8.2 \
+cabal-install version 3.10.3.0 \
 compiled using version 3.10.3.0 of the Cabal library
 
 ---
